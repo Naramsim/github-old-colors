@@ -1,0 +1,17 @@
+{
+  "name": "github-old-colors",
+  "version": "0.1.0",
+  "description": "extension to beatify Github.com",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zip": "zip chrome.zip manifest.json ./css/github-old-colors.css ./images/github-48.png ./images/github-96.png"
+  },
+  "keywords": [
+    "extension",
+    "github",
+    "colors"
+  ],
+  "author": "Naramsim",
+  "license": "MPL-2.0"
+}

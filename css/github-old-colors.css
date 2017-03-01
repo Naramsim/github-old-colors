@@ -1,0 +1,16 @@
+.pinned-repo-item-content .d-block a, .vcard-details a, .contrib-footer a, .ajax-pagination-form .ajax-pagination-btn, .profile-rollup-content>li>div>a:first-child, .ajax-pagination-form a, .profile-rollup-content>li>span>a, .repository-meta-content a, .public a, .private a, .markdown-body a, .menu a, .meta-search-links a, .pagination a, .site-footer a, .repo-list a, .alert a, .mini-repo-list a, .more-repos a, .more-repos-link a, td.content a, #pull-requests a, #issues a, ul.simple-conversation-list.varied-states a, a.aname, .protip a, a.link-gray-dark:hover, a.muted-link:hover, button.muted-link:hover, table.files td.message a:hover, .numbers-summary a:hover, .discussion-sidebar-toggle:hover {
+    color: #4078c0 !important;
+}
+
+table.files td.icon .octicon-file-directory {
+    color: #80a6cd !important;
+}
+
+.filter-item.selected, .pagination .current, .pagination .current:hover, .select-menu-item.navigation-focus, .select-menu-item.navigation-focus.selected, .select-menu-item.navigation-focus.select-menu-action, .select-menu-item.navigation-focus .description-inline, .dropdown-item:hover, .dropdown-item.zeroclipboard-is-hover, .subnav-item.selected, .subnav-item.selected:hover, .subnav-item.selected:focus {
+	background-color: #4078c0 !important;
+	border-color: #4078c0 !important;
+}
+
+.form-control.focus, .form-control:focus, .form-select.focus, .form-select:focus {
+    border-color: #4078c0 !important;
+}
